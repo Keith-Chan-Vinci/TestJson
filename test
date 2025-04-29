@@ -1,0 +1,11 @@
+{
+  "event": "message",
+  "data": {
+    "code": 1,
+    "msg": "Testing results",
+    "data": {
+      "content": "",
+      "is_end": true
+    }
+  }
+}
